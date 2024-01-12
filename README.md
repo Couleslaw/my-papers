@@ -1,3 +1,13 @@
+# What is this repo about
+This repo contains most of the math-related stuff I have written over the years. Feel free to build upon my work but always give appropriate credit. 
+
+## English texts
+### [Stirling's formula](An-Elementary-Proof-of-Stirling's-Formula.pdf)
+This article was publish on [arXiv](https://arxiv.org/abs/2310.04872).
+- proof of Stirlin's formula using only limits and Taylor series
+
+## Czech texts
+
 ### [Pascalův trojúhelník](Pascals-Triangle.pdf)
 - zobecněná kombinační čísla a jejich vlastnosti
 - důkaz zobecněné binomické věty
