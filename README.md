@@ -2,8 +2,8 @@
 This repo contains most of the math-related stuff I have written over the years. Feel free to build upon my work but always give appropriate credit. 
 
 ## English texts
-### [Stirling's formula](An-Elementary-Proof-of-Stirling's-Formula.pdf)
-This article was publish on [arXiv](https://arxiv.org/abs/2310.04872).
+### [Stirling's formula](An-Elementary-Proof-of-Stirling's-Formula-EN.pdf)
+This paper was publish on [arXiv](https://arxiv.org/abs/2310.04872).
 - proof of Stirlin's formula using only limits and Taylor series
 
 ## Czech texts
