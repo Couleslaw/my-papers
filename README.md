@@ -14,11 +14,12 @@ This paper was publish on [arXiv](https://arxiv.org/abs/2310.04872).
 - nejzajímavější vlastnosti Pascalova trojúhelníku
 
 ### [Úvod do diskrétní analýzy](Introduction-to-Finite-Calculus.pdf)
+Všichni známe klasickou spojitou analýzu zabývající se derivacemi a integrály. Diskrétní analýza se zabývá diferencemi a sumami a umožňuje nám hledat součty řad podobně jako určité integrály. 
 - diference, neurčitá a určitá suma
 - věta o vztahu určité sumy a součtu řady
 - věta o vztahu určitého integrálu a plochy pod křivkou
 - Gregory-Newtonova formule spolu s důkazem
-- přes 20 řešených příkladů hledání součtů řad
+- přes 20 řešených příkladů na hledání součtů řad
 
 ### [Stirlingův vzorec](An-Elementary-Proof-of-Stirling's-Formula.pdf)
 - důkaz Wallisova produktu
