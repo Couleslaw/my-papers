@@ -26,7 +26,7 @@ This paper was publish on [arXiv](https://arxiv.org/abs/2310.04872).
 - důkaz Stirlingova vzorce pouze pomocí limit a Taylorovy řady
 
 ### [Metody řešení neurčitých integrálů](Methods-for-Finding-Antiderivatives.pdf)
-Tenhle počin jsem psal jako svoji seminární práci z matematiky v posledním ročníku gymnázia. Ne všechno je tam dokázané a není to tak formální, jak analýza většinou bývá. Zato tato práce obsahuje spoustu řešených příkladů. 
+Tenhle počin jsem psal jako svoji seminární práci z matematiky v posledním ročníku gymnázia. Ne všechno je tam dokázané a není to tak formální, jak analýza většinou bývá. Zato tato práce obsahuje spoustu řešených příkladů a pokrývá opravdu širokou škálu různých integračních metod.
 - hyperbolické funkce a Osbornovo pravidlo
 - metoda per partes a DI metoda
 - substituční metoda a typické substituce za mocninné a goniometrické funkce
