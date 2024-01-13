@@ -43,10 +43,10 @@ Nedokončené povídání o teorii množin, původně myšlené jako úvod do fo
 - úvod do výrokové logiky
 - důkazové techniky
 - důkaz základní věty aritmetiky silnou indukcí
-- naivní teorie množin a Russelův paradox
+- Cantorova naivní teorie množin a Russelův paradox
 - Zermelo-Fraenkelova teorie množin
 - důkaz toho, že reálných čísel je více než přirozených
-- věta o kardinalitě potenční množiny
+- Cantorova věta o kardinalitě potenční množiny
 
 ### [Riemannova Hypotéza](cs/Riemann_Hypothesis.pdf) (2022)
 - gamma funkce a její vlastnosti spolu s důkazy
