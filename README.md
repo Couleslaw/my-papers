@@ -52,6 +52,6 @@ Nedokončené povídání o teorii množin, původně myšlené jako úvod do fo
 - gamma funkce a její vlastnosti spolu s důkazy
 - důkaz Stirlingova vzorce pomocí gamma funkce, ovšem bez odhadu chyby výpočtu
 - Dirichletova eta-funkce
-- Riemannova zeta-funkce
-- Riemannova hypotéza
+- Riemannova zeta-funkce  
+- Co říká Riemannova hypotéza a proč by to mohla být pravda
 - souvislost Riemannovy hypotézy s prvočísly
