@@ -2,18 +2,18 @@
 This repo contains most of the math-related stuff I have written over the years. Feel free to build upon my work but always give appropriate credit. 
 
 ## English texts
-### [Stirling's formula](An-Elementary-Proof-of-Stirling's-Formula-EN.pdf) (2023)
+### [Stirling's formula](Stirlings_Formula_EN.pdf) (2023)
 This paper was publish on [arXiv](https://arxiv.org/abs/2310.04872).
 - proof of Stirlin's formula using only limits and Taylor series
 
 ## Czech texts
 
-### [Pascalův trojúhelník](Pascals-Triangle.pdf) (2022)
+### [Pascalův trojúhelník](Pascals_Triangle.pdf) (2022)
 - zobecněná kombinační čísla a jejich vlastnosti
 - důkaz zobecněné binomické věty
 - nejzajímavější vlastnosti Pascalova trojúhelníku
 
-### [Úvod do diskrétní analýzy](Introduction-to-Finite-Calculus.pdf) (2024)
+### [Úvod do diskrétní analýzy](Finite_Calculus.pdf) (2024)
 Všichni známe klasickou spojitou analýzu zabývající se derivacemi a integrály. Diskrétní analýza se zabývá diferencemi a sumami a umožňuje nám hledat součty řad podobně jako určité integrály. 
 - diference, neurčitá a určitá suma
 - věta o vztahu určité sumy a součtu řady
@@ -22,12 +22,12 @@ Všichni známe klasickou spojitou analýzu zabývající se derivacemi a integr
 - rychlý algoritmus pro výpočet součtu mocninné řady
 - přes 20 řešených příkladů na hledání součtů řad
 
-### [Stirlingův vzorec](An-Elementary-Proof-of-Stirling's-Formula.pdf) (2023)
+### [Stirlingův vzorec](Stirlings_Formula_CS.pdf) (2023)
 - důkaz Wallisova produktu
 - asymptotický odhad prostředního kombinačního čísla
 - důkaz Stirlingova vzorce pouze pomocí limit a Taylorovy řady
 
-### [Metody řešení neurčitých integrálů](Methods-for-Finding-Antiderivatives.pdf) (2021/2022)
+### [Metody řešení neurčitých integrálů](Methods_for_Finding_Antiderivatives.pdf) (2021/2022)
 Tenhle počin jsem psal jako svoji seminární práci z matematiky v posledním ročníku gymnázia. Ne všechno je tam dokázané a není to tak formální, jak analýza většinou bývá. Zato tato práce obsahuje spoustu řešených příkladů a pokrývá opravdu širokou škálu různých integračních metod.
 - hyperbolické funkce a Osbornovo pravidlo
 - metoda per partes a DI metoda
@@ -38,7 +38,7 @@ Tenhle počin jsem psal jako svoji seminární práci z matematiky v posledním 
 - Eulerova substituce
 - celkem více než 100 řešených příkladů 
 
-### [Úvod do teorie množin](Introduction-To-Set-Theory.pdf) (2023)
+### [Úvod do teorie množin](Introduction_to_Set_Theory.pdf) (2023)
 Nedokončené povídání o teorii množin, původně myšlené jako úvod do formální matematiky.
 - úvod do výrokové logiky
 - důkazové techniky
@@ -48,7 +48,7 @@ Nedokončené povídání o teorii množin, původně myšlené jako úvod do fo
 - důkaz toho, že reálných čísel je více než přirozených
 - věta o kardinalitě potenční množiny
 
-### [Riemannova Hypotéza](Riemann-Hypothesis-and-the-Gamma-Function.pdf) (2022)
+### [Riemannova Hypotéza](Riemann_Hypothesis.pdf) (2022)
 - gamma funkce a její vlastnosti spolu s důkazy
 - důkaz Stirlingova vzorce pomocí gamma funkce, ovšem bez odhadu chyby výpočtu
 - Dirichletova eta-funkce
