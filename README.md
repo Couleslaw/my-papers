@@ -3,7 +3,7 @@ This repo contains most of the math-related stuff I have written over the years.
 
 ## English texts
 ### [Stirling's formula](en/Stirlings_Formula_EN.pdf) (2023)
-This paper was publish on [arXiv](https://arxiv.org/abs/2310.04872).
+This paper was published on [arXiv](https://arxiv.org/abs/2310.04872).
 - proof of Stirlin's formula using only limits and Taylor series
 
 ## Czech texts
@@ -36,11 +36,11 @@ Tenhle počin jsem psal jako svoji seminární práci z matematiky v posledním 
 - rozklad na parciální zlomky a metody integrace racionálních funkcí
 - Weierstrassova substituce
 - Eulerova substituce
-- celkem více než 100 řešených příkladů 
+- celkem více než 100 řešených příkladů
 
-### [Úvod do teorie množin](cs/Introduction_to_Set_Theory.pdf) (2023)
-Nedokončené povídání o teorii množin, původně myšlené jako úvod do formální matematiky.
-- úvod do výrokové logiky
+### [Neformální úvod do formální matematiky](cs/Introduction_to_Set_Theory.pdf) (2023)
+Nedokončené povídání o teorii množin, důkazových technikách a logice.
+- úvod do výrokové a predikátové logiky
 - důkazové techniky
 - důkaz základní věty aritmetiky silnou indukcí
 - Cantorova naivní teorie množin a Russelův paradox
