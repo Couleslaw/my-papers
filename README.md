@@ -38,13 +38,18 @@ Tenhle počin jsem psal jako svoji seminární práci z matematiky v posledním 
 - Eulerova substituce
 - celkem více než 100 řešených příkladů
 
-### [Neformální úvod do formální matematiky](cs/Introduction_to_Set_Theory.pdf) (2023)
+### [Úvod do teorie množin](https://www.overleaf.com/read/hnjntszhpnwp#669c46) (2024)
+Mé rozpracované poznámky z předmětu [Teorie množin](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=NAIL063&fak=11320) na MFF UK.
+Zatím obsahují:
+- axiomy ZF
+
+### [Neformální úvod do formální matematiky](cs/Uvod_do_formalni_matematiky.pdf) (2023)
 Nedokončené povídání o teorii množin, důkazových technikách a logice.
 - úvod do výrokové a predikátové logiky
 - důkazové techniky
 - důkaz základní věty aritmetiky silnou indukcí
 - Cantorova naivní teorie množin a Russelův paradox
-- Zermelo-Fraenkelova teorie množin
+- axiomy Zermelo-Fraenkelovy teorie množin
 - důkaz toho, že reálných čísel je více než přirozených
 - Cantorova věta o kardinalitě potenční množiny
 
