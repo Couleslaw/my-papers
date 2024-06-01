@@ -33,6 +33,7 @@ Všichni známe klasickou spojitou analýzu zabývající se derivacemi a integr
 
 Mé poznámky z předmětu [Teorie množin](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=NAIL063&fak=11320) na MFF UK.
 Obsahují:
+
 - vysvětlení problémů Cantorovy naivní teorie množin
 - axiomy Zermelo-Fraenkelovy teorie množin
 - zavedení pojmů třída, kartézský součin, relace, zobrazení, uspořádání...
