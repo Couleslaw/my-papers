@@ -1,5 +1,3 @@
-# What is this repo about
-
 This repo contains most of the math-related stuff I have written over the years. Feel free to build upon my work but always give appropriate credit.
 
 ## English texts
