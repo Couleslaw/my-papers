@@ -4,8 +4,6 @@ This repo contains most of the math-related stuff I have written over the years.
 
 ### [Stirling's formula](en/Stirlings_Formula_EN.pdf) (2023)
 
-This paper was published on [arXiv](https://arxiv.org/abs/2310.04872).
-
 - proof of Stirlin's formula using only limits and Taylor series
 
 ## Czech texts
